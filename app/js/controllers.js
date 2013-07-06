@@ -1,11 +1,9 @@
-'use strict';
-
 /* Controllers */
 
-angular.module('myApp.controllers', []).
-  controller('MyCtrl1', [function() {
+angular.module('angle.controllers', []).
+  controller('RegisterCtrl', [function() {
 
   }])
-  .controller('MyCtrl2', [function() {
+  .controller('VersionCtrl', [function() {
 
   }]);
